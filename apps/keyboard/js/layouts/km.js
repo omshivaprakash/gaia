@@ -4,7 +4,7 @@
   types: ['text', 'url', 'email'],
   autoCorrectLanguage: '',
   menuLabel: 'ខ្មែរ',
-  alt: {
+/*  alt: {
     'ដ': '១ឧ',
     'ន':' '២ឪ',
    'ប': '៣៍',
@@ -59,7 +59,7 @@
     'គ': 'ផ',
     'ជ': 'េ',
     'យ': 'ែ',
- }, 
+ }, */ 
   keys: [
     [
       { value: 'ដ' }, { value: 'ន' }, { value: 'ប' } , { value: 'អ' },
